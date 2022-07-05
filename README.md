@@ -31,3 +31,7 @@ Figure 2: Sale Strategy Dashboard
 For the detailed documentation and Excel file, please refer to the Github repository using the following link:
 
 [Excel Project 1 Github](https://github.com/ChinhMaiGit/Project-Excel-1)
+
+Or access the documentation directly
+
+[Excel Project 1 Documentation](/Project Excel 1 - Documentation.htm)
