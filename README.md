@@ -34,4 +34,4 @@ For the detailed documentation and Excel file, please refer to the Github reposi
 
 Or access the documentation directly
 
-[Excel Project 1 Documentation](/Project Excel 1 - Documentation.htm)
+[Excel Project 1 Documentation](/html/Project Excel 1 - Documentation.htm)
