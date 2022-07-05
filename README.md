@@ -25,7 +25,3 @@ Some design elements are also considered when designing the dashboard so that th
 ![image](https://user-images.githubusercontent.com/89245616/177208499-ab14d29e-f68f-4cfb-8705-1ba11b8e1d99.png)
 
 Figure 2: Sale Strategy Dashboard
-
-## Detailed documentation
-
-For the detailed documentation of the project please follow this [link](Documentation.htm)
