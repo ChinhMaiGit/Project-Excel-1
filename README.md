@@ -3,7 +3,7 @@ The first step in strategy formulation
 
 ![projectexcel1](https://user-images.githubusercontent.com/89245616/179675207-0236705a-4d4d-4aab-ad95-c9481a0201bf.png)
 
-## Case Description
+## Case description
 
 This project is based on a practical case that I have with my friend, where I analyze Shopee sales data provided by [Atosa](https://app.atosa.asia/), a company that provides many marketing automation solutions for Shopee, an ecommerce platform in Vietnam. In a hypothetical situation, I help my friend to formulate a market penetration strategy by getting insights from this data to fulfill his needs of information. My tasks include extracting data from the vendor, cleaning the data, carrying out the analysis, and designing the dashboard to present my findings. 
 
