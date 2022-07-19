@@ -1,7 +1,7 @@
 # Excel Project 1: Shopee Sale Strategy
 The first step in strategy formulation
 
-![image](https://user-images.githubusercontent.com/89245616/177208499-ab14d29e-f68f-4cfb-8705-1ba11b8e1d99.png)
+![projectexcel1](https://user-images.githubusercontent.com/89245616/179675207-0236705a-4d4d-4aab-ad95-c9481a0201bf.png)
 
 ## Case Description
 
