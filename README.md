@@ -7,7 +7,7 @@ The first step in strategy formulation
 
 This project is based on a practical case that I have with my friend, where I analyze Shopee sales data provided by [Atosa](https://app.atosa.asia/), a company that provides many marketing automation solutions for Shopee, an ecommerce platform in Vietnam. In a hypothetical situation, I help my friend to formulate a market penetration strategy by getting insights from this data to fulfill his needs of information. My tasks include extracting data from the vendor, cleaning the data, carrying out the analysis, and designing the dashboard to present my findings. 
 
-## Objectives
+## Executive summary
 
 In this project, I focus on demonstrating my skills in using Excel to work with data and extract useful insights from it. Spreadsheet is an intuitive way to work with data due to its tabular form of presentation and working with spreadsheet does not require as much knowledge as other analytical tools do. However, the latest version of Excel included in the Microsoft 365 subscription is very sophisticated with many cool features that greatly accelerates the analyzing process. The process consists of many analytical steps and ends with a dashboard to present my findings, they include:
 
